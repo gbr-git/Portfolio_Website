@@ -1,6 +1,8 @@
 # Portfolio_Website
 ## Home Page
 ![Screenshot 2023-09-30 131301](https://github.com/gbr-git/Portfolio_Website/assets/77921685/59c79c35-9eb8-4525-932d-7e00023cc6e6)
+## Resume
+![Screenshot (11)](https://github.com/gbr-git/Portfolio_Website/assets/77921685/5ff5c97e-ecd5-47e1-9e18-486cc75e556f)
 ## Work Experience
 ![Screenshot (12)](https://github.com/gbr-git/Portfolio_Website/assets/77921685/596cd1e5-af42-4566-85fd-3a73181632d8)
 ## Projects
